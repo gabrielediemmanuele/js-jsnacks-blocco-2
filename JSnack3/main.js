@@ -12,5 +12,5 @@ for (let i = 0; i < numbersList.length; i++) {
   if (!(i % 2)) total += currentNumber;
 }
 
-// console log
+// console log somma totale
 console.log(" la somma è: " + total);
