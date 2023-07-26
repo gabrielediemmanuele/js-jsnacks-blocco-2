@@ -38,7 +38,7 @@ for (let i = 0; i < fakeGuestsNumber; i++) {
   const randomSurname = surNames[randomSurnamesGen];
 
   // names + surnames
-  const Guests = randomUserName + "" + randomSurname;
+  const Guests = randomUserName + " " + randomSurname;
 
   // push
   fakeGuests.push(Guests);
