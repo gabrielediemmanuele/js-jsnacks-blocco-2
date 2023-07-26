@@ -1,11 +1,7 @@
-# JSnack1
+# JSnack3
 
 ## Traccia
 
-Inserisci un numero, se è pari stampa il numero, se è dispari stampa il numero successivo.
+Crea un array di numeri interi e fai la somma di tutti gli elementi che sono in posizione dispari
 
 ## Step
-
-- Inserisco un numero
-- se il numero è pari, stampo il numero.
-- Altrimenti stampo il numero successivo.
